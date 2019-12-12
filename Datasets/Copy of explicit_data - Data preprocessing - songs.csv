@@ -1,0 +1,442 @@
+user_id,age_group,gender,profession,hours_spending,musical_aspect,song_id
+10001,18 - 24,Female,Student,0 - 1,Tempo/speed,174
+10001,18 - 24,Female,Student,0 - 1,Tempo/speed,220
+10002,25 - 34,Male,Working,2 - 3,The singer's voice,221
+10003,18 - 24,Female,Software Engineer,more than 5,The singer's voice,164
+10004,18 - 24,Male,software engineer,more than 5,The singer's voice,6
+10004,18 - 24,Male,Software Engineer,3 - 5,The instrument being used,124
+10004,18 - 24,Male,Software Engineer,3 - 5,The instrument being used,222
+10004,18 - 24,Male,Software Engineer,0 - 1,Tempo/speed,223
+10004,18 - 24,Male,Software Engineer,0 - 1,Tempo/speed,59
+10010,18 - 24,Female,Undergraduate,0 - 1,The singer's voice,92
+10010,18 - 24,Female,Undergraduate,0 - 1,The singer's voice,146
+10010,18 - 24,Female,Undergraduate,0 - 1,The singer's voice,10
+10010,18 - 24,Female,Undergraduate,0 - 1,The singer's voice,174
+10014,18 - 24,Female,Student,0 - 1,The instrument being used,174
+10015,18 - 24,Female,UI engineer,3 - 5,The singer's voice,174
+10015,18 - 24,Female,UI engineer,3 - 5,The singer's voice,224
+10015,18 - 24,Female,UI engineer,3 - 5,The singer's voice,134
+10015,18 - 24,Female,UI engineer,3 - 5,The singer's voice,225
+10019,18 - 24,Female,UI engineer,3 - 5,The singer's voice,196
+10019,18 - 24,Female,UI engineer,3 - 5,The singer's voice,127
+10019,18 - 24,Female,UI engineer,3 - 5,The singer's voice,226
+10022,25 - 34,Female,Engineer,2 - 3,Tempo/speed,127
+10023,25 - 34,Female,Engineer,2 - 3,Tempo/speed,194
+10024,25 - 34,Female,Engineer,2 - 3,Tempo/speed,123
+10024,25 - 34,Female,Engineer,2 - 3,Tempo/speed,152
+10026,18 - 24,Female,student,2 - 3,The singer's voice,3
+10027,18 - 24,Male,Marketer,2 - 3,The instrument being used,151
+10028,18 - 24,Female,Student,0 - 1,Tempo/speed,26
+10028,18 - 24,Female,Student,0 - 1,Tempo/speed,210
+10028,18 - 24,Female,Student,0 - 1,Tempo/speed,52
+10028,18 - 24,Female,Student,0 - 1,Tempo/speed,55
+10032,18 - 24,Female,student,0 - 1,The singer's voice,79
+10033,25 - 34,Male,student,2 - 3,The singer's voice,227
+10033,25 - 34,Male,student,2 - 3,The singer's voice,202
+10033,25 - 34,Male,student,2 - 3,The singer's voice,228
+10033,25 - 34,Male,student,2 - 3,The singer's voice,174
+10037,25 - 34,Male,student,2 - 3,The singer's voice,175
+10038,25 - 34,Male,student,2 - 3,The singer's voice,229
+10039,25 - 34,Male,student,2 - 3,The singer's voice,140
+10040,25 - 34,Male,student,2 - 3,The singer's voice,79
+10040,25 - 34,Male,student,2 - 3,The singer's voice,84
+10042,25 - 34,Male,Undergraduate,0 - 1,Tempo/speed,230
+10042,25 - 34,Male,Undergraduate,0 - 1,Tempo/speed,243
+10044,18 - 24,Male,Student,0 - 1,The instrument being used,234
+10045,25 - 34,Male,Undergraduate,2 - 3,The singer's voice,196
+10045,25 - 34,Male,Undergraduate,2 - 3,The singer's voice,176
+10045,25 - 34,Male,Undergraduate,2 - 3,The singer's voice,231
+10045,25 - 34,Male,Undergraduate,2 - 3,The singer's voice,86
+10049,25 - 34,Male,Undergraduate,2 - 3,The singer's voice,232
+10049,25 - 34,Male,Undergraduate,2 - 3,The singer's voice,102
+10049,25 - 34,Male,Undergraduate,2 - 3,The singer's voice,37
+10049,25 - 34,Male,Undergraduate,2 - 3,The singer's voice,229
+10049,25 - 34,Male,Undergraduate,2 - 3,The singer's voice,76
+10054,25 - 34,Male,Undergraduate,2 - 3,The singer's voice,194
+10055,25 - 34,Male,Undergraduate,2 - 3,The singer's voice,128
+10056,25 - 34,Male,Undergraduate,2 - 3,The singer's voice,175
+10057,25 - 34,Male,Undergraduate,2 - 3,The singer's voice,233
+10058,25 - 34,Male,Undergraduate,2 - 3,The singer's voice,228
+10058,25 - 34,Male,Undergraduate,2 - 3,The singer's voice,234
+10058,25 - 34,Male,Undergraduate,2 - 3,The singer's voice,235
+10061,18 - 24,Female,Student,2 - 3,Music,39
+10061,18 - 24,Female,Student,2 - 3,Music,81
+10061,18 - 24,Female,Student,2 - 3,Music,92
+10064,18 - 24,Male,student,2 - 3,Music,40
+10065,18 - 24,Male,student,2 - 3,Music,236
+10065,18 - 24,Male,student,2 - 3,Music,80
+10065,18 - 24,Male,student,2 - 3,Music,173
+10068,18 - 24,Female,Student,2 - 3,The message of the song,147
+10069,18 - 24,Female,Student,2 - 3,The message of the song,237
+10070,18 - 24,Female,Student,2 - 3,The message of the song,238
+10071,18 - 24,Female,Business Analyst,2 - 3,Music,160
+10072,18 - 24,Female,Business Analyst,2 - 3,Music,110
+10073,18 - 24,Female,AL Teacher,more than 5,Music,59
+10074,18 - 24,Female,AL Teacher,more than 5,Music,160
+10075,18 - 24,Female,Student,2 - 3,Music,78
+10075,18 - 24,Female,Student,2 - 3,Music,225
+10075,18 - 24,Female,Student,2 - 3,Music,239
+10079,18 - 24,Female,Student,2 - 3,Tempo/speed,13
+10079,18 - 24,Female,Student,2 - 3,Tempo/speed,210
+10079,18 - 24,Female,Student,2 - 3,Tempo/speed,191
+10079,18 - 24,Female,Student,2 - 3,Tempo/speed,80
+10082,18 - 24,Female,Student,2 - 3,Tempo/speed,178
+10082,18 - 24,Female,Student,2 - 3,Tempo/speed,182
+10082,18 - 24,Female,Student,2 - 3,Tempo/speed,106
+10082,18 - 24,Female,Student,2 - 3,Tempo/speed,145
+10082,18 - 24,Female,Student,2 - 3,Tempo/speed,211
+10087,18 - 24,Female,Student,2 - 3,Tempo/speed,146
+10088,18 - 24,Female,Business Analyst,0 - 1,Music,228
+10088,18 - 24,Female,Business Analyst,0 - 1,Music,140
+10090,18 - 24,Female,Student,0 - 1,The singer's voice,79
+10090,18 - 24,Female,Student,0 - 1,The singer's voice,174
+10090,18 - 24,Female,Student,0 - 1,The singer's voice,179
+10093,25 - 34,Female,Engineer,2 - 3,Music,240
+10094,18 - 24,Male,Undergraduate,2 - 3,Tempo/speed,77
+10095,18 - 24,Female,Student,2 - 3,The message of the song,228
+10095,18 - 24,Female,Student,2 - 3,The message of the song,196
+10095,18 - 24,Female,Student,2 - 3,The message of the song,135
+10098,18 - 24,Female,Student,2 - 3,The message of the song,227
+10098,18 - 24,Female,Student,2 - 3,The message of the song,99
+10100,18 - 24,Female,Student,0 - 1,The instrument being used,145
+10101,18 - 24,Female,Student,0 - 1,The instrument being used,241
+10102,25 - 34,Female,Student,0 - 1,The message of the song,140
+10102,25 - 34,Female,Student,0 - 1,The message of the song,227
+10102,25 - 34,Female,Student,0 - 1,The message of the song,79
+10105,18 - 24,Female,Student,0 - 1,Tempo/speed,140
+10106,18 - 24,Female,Student,2 - 3,The message of the song,310
+10105,18 - 24,Female,Student,2 - 3,The message of the song,122
+10105,18 - 24,Female,Student,2 - 3,The message of the song,242
+10105,18 - 24,Female,Student,2 - 3,The message of the song,311
+10110,18 - 24,Female,Student,2 - 3,The message of the song,243
+10110,18 - 24,Female,Student,2 - 3,The message of the song,139
+10110,18 - 24,Female,Student,2 - 3,The message of the song,14
+10110,18 - 24,Female,Student,2 - 3,The message of the song,73
+10114,18 - 24,Female,Student,2 - 3,The message of the song,244
+10115,18 - 24,Female,Student,2 - 3,The message of the song,245
+10116,18 - 24,Female,Student,2 - 3,The message of the song,246
+10117,25 - 34,Male,Executive,more than 5,Music,212
+10118,25 - 34,Male,Executive,more than 5,Music,247
+10118,18 - 24,Male,Engineer,2 - 3,Music,135
+10120,18 - 24,Female,Engineer,0 - 1,Music,174
+10121,18 - 24,Female,Student,0 - 1,Music,140
+10122,18 - 24,Female,Architecture student,2 - 3,The message of the song,248
+10122,18 - 24,Female,Architecture student,2 - 3,The message of the song,79
+10122,18 - 24,Female,Architecture student,2 - 3,The message of the song,191
+10122,18 - 24,Female,Architecture student,2 - 3,The message of the song,210
+10122,18 - 24,Female,Architecture student,2 - 3,The message of the song,55
+10127,18 - 24,Female,Architecture student,2 - 3,The message of the song,249
+10128,18 - 24,Female,Architecture student,2 - 3,The message of the song,250
+10129,18 - 24,Female,Architecture student,2 - 3,The message of the song,146
+10129,18 - 24,Female,Architecture student,2 - 3,The message of the song,251
+10129,18 - 24,Female,Architecture student,2 - 3,The message of the song,178
+10129,18 - 24,Female,Architecture student,2 - 3,The message of the song,163
+10129,18 - 24,Female,Architecture student,2 - 3,The message of the song,8
+10129,18 - 24,Female,Architecture student,2 - 3,The message of the song,15
+10135,18 - 24,Female,Architecture student,2 - 3,The message of the song,105
+10136,18 - 24,Female,Architecture student,2 - 3,The message of the song,171
+10136,18 - 24,Female,Architecture student,2 - 3,The message of the song,252
+10136,18 - 24,Female,Architecture student,2 - 3,The message of the song,253
+10136,18 - 24,Female,Architecture student,2 - 3,The message of the song,254
+10136,18 - 24,Female,Architecture student,2 - 3,The message of the song,255
+10136,18 - 24,Female,Architecture student,2 - 3,The message of the song,256
+10142,18 - 24,Female,Architecture student,2 - 3,The message of the song,73
+10143,18 - 24,Female,Architecture student,2 - 3,The message of the song,154
+10144,18 - 24,Female,Architecture student,2 - 3,The message of the song,17
+10143,18 - 24,Female,Architecture student,2 - 3,The message of the song,89
+10146,18 - 24,Female,Architecture student,2 - 3,The message of the song,143
+10147,18 - 24,Male,Student,0 - 1,Tempo/speed,179
+10148,18 - 24,Male,Student,0 - 1,Tempo/speed,236
+10149,18 - 24,Male,Student,0 - 1,Tempo/speed,10
+10147,18 - 24,Male,Student,0 - 1,Tempo/speed,164
+10147,18 - 24,Male,Student,0 - 1,Tempo/speed,257
+10152,18 - 24,Female,Student,2 - 3,The singer's voice,174
+10153,18 - 24,Female,Undergraduate,3 - 5,Music,39
+10154,18 - 24,Male,Medical  student,0 - 1,Music,258
+10155,18 - 24,Female,Student,0 - 1,Music,81
+10156,18 - 24,Female,Student,0 - 1,Music,259
+10155,18 - 24,Female,Student,0 - 1,Music,83
+10158,18 - 24,Female,Student,0 - 1,Music,93
+10155,18 - 24,Female,Student,0 - 1,Music,157
+10160,18 - 24,Male,Student,0 - 1,The message of the song,79
+10161,25 - 34,Female,Accountant,0 - 1,The message of the song,79
+10162,25 - 34,Female,Accountant,0 - 1,The message of the song,260
+10161,25 - 34,Female,Accountant,0 - 1,The message of the song,56
+10161,25 - 34,Female,Accountant,0 - 1,The message of the song,174
+10165,25 - 34,Female,Accountant,0 - 1,The message of the song,71
+10166,25 - 34,Female,Accountant,0 - 1,The message of the song,261
+10167,18 - 24,Male,Software engineer,3 - 5,The singer's voice,114
+10168,18 - 24,Male,Student,0 - 1,Music,186
+10169,18 - 24,Male,Student,0 - 1,Music,227
+10168,18 - 24,Male,Student,0 - 1,Music,7
+10171,18 - 24,Male,Student,0 - 1,Music,237
+10168,18 - 24,Male,Student,0 - 1,Music,262
+10173,18 - 24,Male,Student,0 - 1,Music,79
+10173,18 - 24,Male,Student,0 - 1,Music,113
+10175,18 - 24,Male,Student,0 - 1,Music,263
+10176,18 - 24,Female,University student,0 - 1,Music,264
+10176,18 - 24,Female,University student,0 - 1,Music,175
+10176,18 - 24,Female,University student,0 - 1,Music,145
+10179,18 - 24,Female,University student,0 - 1,Music,127
+10180,18 - 24,Female,University student,0 - 1,Music,47
+10181,18 - 24,Female,University student,0 - 1,Music,211
+10182,18 - 24,Female,University student,0 - 1,Music,265
+10181,18 - 24,Female,University student,0 - 1,Music,73
+10181,18 - 24,Female,University student,0 - 1,Music,48
+10185,18 - 24,Male,Student,3 - 5,The singer's voice,227
+10186,18 - 24,Female,Undergraduate student,3 - 5,Music,7
+10187,25 - 34,Male,Accountant,0 - 1,The message of the song,79
+10187,25 - 34,Male,Accountant,0 - 1,The message of the song,110
+10189,18 - 24,Female,Student,more than 5,Music,55
+10190,18 - 24,Female,Medical student,0 - 1,The singer's voice,266
+10190,18 - 24,Female,Medical student,0 - 1,The singer's voice,24
+10192,18 - 24,Female,student,0 - 1,All,267
+10193,18 - 24,Female,student,0 - 1,All,76
+10194,18 - 24,Female,student,0 - 1,All,227
+10195,18 - 24,Female,student,0 - 1,All,264
+10194,18 - 24,Female,student,0 - 1,All,229
+10197,18 - 24,Female,student,0 - 1,All,174
+10194,18 - 24,Female,student,0 - 1,All,140
+10199,18 - 24,Female,student,0 - 1,All,268
+10194,18 - 24,Female,student,0 - 1,All,269
+10194,18 - 24,Female,student,0 - 1,All,79
+10202,18 - 24,Female,student,0 - 1,All,176
+10203,25 - 34,Male,Software Quality Engineer,1 - 3,The singer's voice,270
+10204,45 - 54,Male,Engineer,0 - 1,The singer's voice,271
+10204,45 - 54,Male,Engineer,0 - 1,The singer's voice,48
+10206,45 - 54,Male,Engineer,0 - 1,The singer's voice,47
+10207,18 - 24,Male,Engineer,1 - 3,The instrument being used,193
+10208,18 - 24,Female,Student,0 - 1,The message of the song,145
+10209,18 - 24,Female,Student,0 - 1,The message of the song,236
+10208,18 - 24,Female,Student,0 - 1,The message of the song,72
+10211,18 - 24,Female,Student,0 - 1,The message of the song,272
+10208,18 - 24,Female,Student,0 - 1,The message of the song,61
+10213,25 - 34,Male,Banker,1 - 3,The message of the song,131
+10213,25 - 34,Male,Banker,1 - 3,The message of the song,136
+10213,25 - 34,Male,Banker,1 - 3,The message of the song,273
+10213,25 - 34,Male,Banker,1 - 3,The message of the song,100
+10217,25 - 34,Male,Student,1-3,The singer's voice,140
+10217,25 - 34,Male,Student,1-3,The singer's voice,174
+10217,25 - 34,Male,Student,1-3,The singer's voice,179
+10220,25 - 34,Male,Student,1-3,The singer's voice,178
+10221,25 - 34,Male,Student,1-3,The singer's voice,274
+10222,25 - 34,Male,Student,1-3,The singer's voice,139
+10221,25 - 34,Male,Student,1-3,The singer's voice,15
+10224,25 - 34,Male,Student,1-3,The singer's voice,275
+10221,25 - 34,Male,Student,1-3,The singer's voice,96
+10226,25 - 34,Male,Student,1-3,The singer's voice,276
+10221,25 - 34,Male,Student,1-3,The singer's voice,31
+10228,25 - 34,Male,Student,1-3,The singer's voice,277
+10229,25 - 34,Male,Student,1-3,The singer's voice,199
+10230,25 - 34,Male,Student,1-3,The singer's voice,278
+10229,25 - 34,Male,Student,1-3,The singer's voice,145
+10232,25 - 34,Male,Student,1-3,The singer's voice,175
+10229,25 - 34,Male,Student,1-3,The singer's voice,127
+10234,25 - 34,Male,Student,1-3,The singer's voice,102
+10229,25 - 34,Male,Student,1-3,The singer's voice,279
+10236,25 - 34,Male,Student,1-3,The singer's voice,22
+10236,25 - 34,Male,Student,1-3,The singer's voice,35
+10236,25 - 34,Male,Student,1-3,The singer's voice,75
+10239,25 - 34,Male,Student,1-3,The singer's voice,280
+10240,25 - 34,Male,Student,1-3,The singer's voice,281
+10240,25 - 34,Male,Student,1-3,The singer's voice,77
+10242,25 - 34,Male,Student,1-3,The singer's voice,282
+10243,25 - 34,Male,Student,1-3,The singer's voice,26
+10244,18 - 24,Female,Student,0 - 1,Music,140
+10245,18 - 24,Female,Student,0 - 1,The singer's voice,52
+10245,18 - 24,Female,Student,0 - 1,The singer's voice,259
+10245,18 - 24,Female,Student,0 - 1,The singer's voice,25
+10248,18 - 24,Female,Student,0 - 1,The singer's voice,32
+10249,18 - 24,Female,Undergraduate,1 - 3,The message of the song,81
+10250,25 - 34,Male,Software Developer,0 - 1,Music,211
+10251,25 - 34,Male,Software Developer,0 - 1,Music,217
+10251,25 - 34,Male,Software Developer,0 - 1,Music,61
+10251,25 - 34,Male,Software Developer,0 - 1,Music,9
+10251,25 - 34,Male,Software Developer,0 - 1,Music,208
+10255,25 - 34,Male,Software Developer,0 - 1,Music,207
+10256,25 - 34,Male,Software Developer,0 - 1,Music,204
+10257,18 - 24,Female,Student,1 - 3,The singer's voice,283
+10258,18 - 24,Female,Student,1 - 3,The singer's voice,140
+10259,18 - 24,Female,Student,1 - 3,The singer's voice,284
+10260,25 - 34,Female,Student,1 - 3,The singer's voice,127
+10261,25 - 34,Female,Engineer,0 - 1,The message of the song,221
+10261,25 - 34,Female,Engineer,0 - 1,The message of the song,42
+10261,25 - 34,Female,Engineer,0 - 1,The message of the song,43
+10264,25 - 34,Female,Engineer,0 - 1,The message of the song,47
+10265,25 - 34,Female,Engineer,0 - 1,The message of the song,285
+10266,25 - 34,Female,Engineer,0 - 1,The message of the song,286
+10265,25 - 34,Female,Engineer,0 - 1,The message of the song,1
+10268,25 - 34,Female,Engineer,0 - 1,The message of the song,14
+10265,25 - 34,Female,Engineer,0 - 1,The message of the song,264
+10270,18 - 24,Female,Medical student,3 - 5,The message of the song,227
+10271,18 - 24,Female,Medical student,3 - 5,The message of the song,287
+10270,18 - 24,Female,Medical student,3 - 5,The message of the song,288
+10270,18 - 24,Female,Medical student,3 - 5,The message of the song,289
+10274,18 - 24,Female,Medical student,3 - 5,The message of the song,267
+10275,18 - 24,Female,Medical student,3 - 5,The message of the song,290
+10276,18 - 24,Female,Medical student,3 - 5,The message of the song,287
+10270,18 - 24,Female,Medical student,3 - 5,The message of the song,284
+10278,18 - 24,Female,Medical student,3 - 5,The message of the song,175
+10278,18 - 24,Female,Medical student,3 - 5,The message of the song,219
+10280,18 - 24,Female,Student,0 - 1,The singer's voice,174
+10281,18 - 24,Female,Student,0 - 1,The singer's voice,175
+10282,18 - 24,Female,Student,0 - 1,The singer's voice,155
+10281,18 - 24,Female,Student,0 - 1,The singer's voice,57
+10284,18 - 24,Female,Student,0 - 1,The singer's voice,118
+10281,18 - 24,Female,Student,0 - 1,The singer's voice,201
+10286,18 - 24,Male,Student,0 - 1,Music,51
+10287,18 - 24,Female,Student,1 - 3,Music,16
+10288,25 - 34,Male,student,0 - 1,The singer's voice,114
+10288,18 - 24,Male,Student,0 - 1,The singer's voice,194
+10290,18 - 24,Female,Surveyor,0 - 1,Music,76
+10291,25 - 34,Female,Beautician,0 - 1,The singer's voice,52
+10292,25 - 34,Female,Beautician,0 - 1,The singer's voice,291
+10291,25 - 34,Female,Beautician,0 - 1,The singer's voice,292
+10294,25 - 34,Female,Beautician,0 - 1,The singer's voice,127
+10291,25 - 34,Female,Beautician,0 - 1,The singer's voice,110
+10296,18 - 24,Male,University student,0 - 1,It varies,126
+10297,18 - 24,Male,University student,0 - 1,It varies,293
+10296,18 - 24,Male,University student,0 - 1,It varies,125
+10296,18 - 24,Male,University student,0 - 1,It varies,21
+10300,18 - 24,Male,University student,0 - 1,It varies,22
+10301,18 - 24,Male,University student,0 - 1,It varies,23
+10302,18 - 24,Male,Business consultant,more than 5,The instrument being used,21
+10303,18 - 24,Male,Student,0 - 1,Music,140
+10304,18 - 24,Male,Student,0 - 1,Music,175
+10303,18 - 24,Male,Student,0 - 1,Music,174
+10303,18 - 24,Male,Student,0 - 1,Music,227
+10303,18 - 24,Male,Student,0 - 1,Music,252
+10308,18 - 24,Male,Student,0 - 1,Music,282
+10309,18 - 24,Female,Student,0 - 1,Music,50
+10310,18 - 24,Female,Student,0 - 1,Music,219
+10309,18 - 24,Female,Student,0 - 1,Music,135
+10312,18 - 24,Male,Student,1 - 3,The instrument being used,93
+10313,18 - 24,Male,Student,1 - 3,The instrument being used,26
+10314,18 - 24,Male,Student,1 - 3,The instrument being used,130
+10315,18 - 24,Female,Student,0 - 1,The message of the song,287
+10316,18 - 24,Female,Student,1 - 3,Music,97
+10317,18 - 24,Female,Student,1 - 3,Music,311
+10317,25 - 34,Female,Lecturer,1 - 3,The singer's voice,132
+10319,25 - 34,Female,Lecturer,1 - 3,The singer's voice,45
+10315,18 - 24,Female,Student,0 - 1,The message of the song,140
+10315,18 - 24,Female,Student,0 - 1,The message of the song,55
+10322,18 - 24,Female,Student,0 - 1,The message of the song,294
+10323,25 - 34,Female,Engineer,0 - 1,Music,79
+10323,25 - 34,Female,Engineer,0 - 1,Music,234
+10323,25 - 34,Female,Engineer,0 - 1,Music,174
+10326,25 - 34,Female,Engineer,0 - 1,Music,140
+10327,25 - 34,Female,Engineer,0 - 1,Music,113
+10328,25 - 34,Female,Engineer,0 - 1,Music,235
+10327,25 - 34,Female,Engineer,0 - 1,Music,229
+10330,25 - 34,Female,Engineer,0 - 1,Music,49
+10327,25 - 34,Female,Engineer,0 - 1,Music,295
+10332,25 - 34,Female,Engineer,0 - 1,Music,91
+10327,25 - 34,Female,Engineer,0 - 1,Music,43
+10334,25 - 34,Female,Engineer,0 - 1,Music,277
+10335,25 - 34,Male,Engineer,1 - 3,The message of the song,79
+10336,18 - 24,Female,Student,0 - 1,The instrument being used,187
+10337,18 - 24,Male,medical student,0 - 1,Music,264
+10337,18 - 24,Male,medical student,0 - 1,Music,171
+10339,18 - 24,Male,Student,0 - 1,The instrument being used,207
+10340,18 - 24,Male,Student,0 - 1,The instrument being used,31
+10341,25 - 34,Female,Associate Software Engineer,more than 5,Music,166
+10341,25 - 34,Female,Associate Software Engineer,more than 5,Music,284
+10343,25 - 34,Female,Associate Software Engineer,more than 5,Music,37
+10344,18 - 24,Female,Student,1 - 3,Music,79
+10345,18 - 24,Female,Student,0 - 1,The singer's voice,174
+10345,18 - 24,Female,Student,0 - 1,The singer's voice,170
+10345,18 - 24,Female,Student,0 - 1,The singer's voice,165
+10348,18 - 24,Female,Student,0 - 1,All,79
+10349,18 - 24,Female,Student,0 - 1,All,107
+10349,18 - 24,Female,Student,0 - 1,All,254
+10349,18 - 24,Female,Student,0 - 1,All,52
+10349,18 - 24,Female,Student,0 - 1,All,296
+10353,18 - 24,Female,Student,0 - 1,All,196
+10354,18 - 24,Female,Student,0 - 1,All,246
+10355,18 - 24,Female,Student,0 - 1,All,1
+10355,18 - 24,Female,Student,0 - 1,All,73
+10355,18 - 24,Female,Student,0 - 1,All,310
+10355,18 - 24,Female,Student,0 - 1,All,213
+10359,18 - 24,Male,Student,1 - 3,The instrument being used,35
+10360,18 - 24,Female,Student,0 - 1,The singer's voice,174
+10361,18 - 24,Female,Student,0 - 1,The singer's voice,297
+10361,18 - 24,Female,Student,0 - 1,The singer's voice,8
+10361,18 - 24,Female,Student,0 - 1,The singer's voice,186
+10361,18 - 24,Female,Student,0 - 1,The singer's voice,210
+10365,18 - 24,Female,Student,0 - 1,The singer's voice,76
+10366,18 - 24,Female,Student,0 - 1,The singer's voice,172
+10367,18 - 24,Female,Student,0 - 1,The singer's voice,262
+10367,18 - 24,Female,Student,0 - 1,The singer's voice,127
+10367,18 - 24,Female,Student,0 - 1,The singer's voice,86
+10367,18 - 24,Female,Student,0 - 1,The singer's voice,110
+10367,18 - 24,Female,Student,0 - 1,The singer's voice,106
+10372,18 - 24,Female,Student,0 - 1,The singer's voice,200
+10373,18 - 24,Female,Student,0 - 1,The singer's voice,206
+10374,18 - 24,Female,Student,0 - 1,The singer's voice,252
+10375,18 - 24,Female,Student,0 - 1,The singer's voice,144
+10376,18 - 24,Female,Student,0 - 1,The singer's voice,248
+10374,18 - 24,Female,Student,0 - 1,The singer's voice,192
+10378,18 - 24,Female,Student,0 - 1,The singer's voice,309
+10379,18 - 24,Female,Student,0 - 1,The singer's voice,73
+10380,18 - 24,Female,Student,0 - 1,The singer's voice,8
+10379,18 - 24,Female,Student,0 - 1,The singer's voice,14
+10374,18 - 24,Female,Student,0 - 1,The singer's voice,80
+10383,18 - 24,Female,Student,0 - 1,The singer's voice,49
+10384,25 - 34,Male,Implementation engineer,more than 5,The singer's voice,26
+10384,25 - 34,Male,Implementation engineer,more than 5,The singer's voice,210
+10386,18 - 24,Female,Student,3 - 5,The singer's voice,113
+10387,18 - 24,Female,Student,3 - 5,The singer's voice,140
+10387,18 - 24,Female,Student,3 - 5,The singer's voice,79
+10387,18 - 24,Female,Student,3 - 5,The singer's voice,268
+10390,18 - 24,Female,Student,3 - 5,The singer's voice,228
+10391,18 - 24,Female,Student,0 - 1,The singer's voice,308
+10392,18 - 24,Male,student,1 - 3,The singer's voice,164
+10393,18 - 24,Male,student,1 - 3,The singer's voice,218
+10394,18 - 24,Male,student,1 - 3,The singer's voice,64
+10393,18 - 24,Male,student,1 - 3,The singer's voice,26
+10396,18 - 24,Male,student,1 - 3,The singer's voice,307
+10397,18 - 24,Female,Student,0 - 1,Music,196
+10398,18 - 24,Female,Student,1 - 3,The message of the song,79
+10399,18 - 24,Female,Student,1 - 3,The message of the song,174
+10400,18 - 24,Female,Student,1 - 3,The message of the song,263
+10399,18 - 24,Female,Student,1 - 3,The message of the song,88
+10399,18 - 24,Female,Student,1 - 3,The message of the song,306
+10399,18 - 24,Female,Student,1 - 3,The message of the song,81
+10404,18 - 24,Female,Student,1 - 3,The message of the song,93
+10405,18 - 24,Female,Student,1 - 3,The message of the song,298
+10405,18 - 24,Female,Student,1 - 3,The message of the song,225
+10405,18 - 24,Female,Student,1 - 3,The message of the song,217
+10405,18 - 24,Female,Student,1 - 3,The message of the song,20
+10405,18 - 24,Female,Student,1 - 3,The message of the song,150
+10410,18 - 24,Female,Student,1 - 3,The message of the song,253
+10410,18 - 24,Female,Student,1 - 3,The message of the song,21
+10412,18 - 24,Female,Student,1 - 3,The message of the song,145
+10413,18 - 24,Female,Student,1 - 3,The message of the song,140
+10413,18 - 24,Female,Student,1 - 3,The message of the song,174
+10415,18 - 24,Female,Student,1 - 3,The message of the song,175
+10416,18 - 24,Female,Student,1 - 3,The message of the song,129
+10416,18 - 24,Female,Student,1 - 3,The message of the song,48
+10418,18 - 24,Female,Student,1 - 3,The message of the song,298
+10419,18 - 24,Female,Student,1 - 3,The message of the song,221
+10420,18 - 24,Female,Medical Student,1 - 3,All,311
+10421,18 - 24,Female,student,0 - 1,Music,175
+10421,18 - 24,Female,student,0 - 1,Music,164
+10421,18 - 24,Female,student,0 - 1,Music,179
+10424,18 - 24,Female,student,0 - 1,Music,129
+10425,25 - 34,Male,Planner,0 - 1,The singer's voice,24
+10426,25 - 34,Male,Lecturer,1 - 3,The message of the song,186
+10426,25 - 34,Male,Lecturer,1 - 3,The message of the song,305
+10428,18 - 24,Female,student,0 - 1,Music,145
+10429,18 - 24,Female,student,0 - 1,Music,14
+10430,18 - 24,Female,student,0 - 1,Music,173
+10429,18 - 24,Female,student,0 - 1,Music,304
+10429,18 - 24,Female,student,0 - 1,Music,303
+10429,18 - 24,Female,student,0 - 1,Music,302
+10434,18 - 24,Female,student,0 - 1,Music,301
+10435,18 - 24,Female,student,0 - 1,Music,300
+10436,18 - 24,Female,student,0 - 1,Music,299
+10435,18 - 24,Female,student,0 - 1,Music,114
+10436,18 - 24,Female,student,0 - 1,Music,123
+10439,18 - 24,Female,student,0 - 1,Music,205
+10440,18 - 24,Female,student,0 - 1,Music,298
+10439,18 - 24,Female,student,0 - 1,Music,47
