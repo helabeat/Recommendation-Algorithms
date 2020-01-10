@@ -33,7 +33,8 @@ songs = pd.read_csv('../Datasets/Copy of explicit_data - Songs - All.csv')
 
 user_playlist_data.columns = ['playlist_id','timestamp','order','song_id']
 df_merge = pd.merge(user_playlist_data, songs.drop_duplicates(['song_id']), on="song_id", how="left")
-df_merge['ratings'] = np.ones((69,), dtype=int)
+
+df_merge['ratings'] = np.ones((df_merge.shape[0],), dtype=int)
 
 
 # In[4]:
@@ -115,7 +116,7 @@ def make_suggestion(songs, playlist_id, df_merge):
 # In[5]:
 
 
-make_suggestion(songs, 103, df_merge)
+# make_suggestion(songs, 103, df_merge)
 
 
 # In[ ]:
